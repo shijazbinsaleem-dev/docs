@@ -1,3 +1,4 @@
+<img width="1178" height="2087" alt="IMG_1825" src="https://github.com/user-attachments/assets/42ba2e7b-9aaf-4db0-a83c-f9961cd1c2ab" />
 ---
 title: Copilot feature matrix
 intro: Identify which IDEs support which {% data variables.product.prodname_copilot %} features.
